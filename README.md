@@ -1,0 +1,2 @@
+# MRM_2025_dBdt_over_Efield_ratios
+Simulated data published in MRM article "Simulation of dB/dt-over-electric field cardiac magnetostimulation safety ratios in 75 body models and 18 gradient systems" (2025). The Excel spreadsheet contains dB/dt-over-Emax, dB/d-over-E99.9, and dB/dt-over-E99 ratios simulated in study #1 and study #2 for all body models, gradient systems (GC#1-#13), and axis combinations (X, Y, Z, X+Y+Z) in units of (T/s)/(V/m).
